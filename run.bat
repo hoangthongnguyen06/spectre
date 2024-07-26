@@ -1,0 +1,1 @@
+spectre-v0.3.16-win64-amd64 --mining-address spectre:qq8w2j94hcehxpt730vlq9cqs5x55886s8uznxgkmulvzu28689rjltezf264 --spectred-address 116.111.127.6 --port 18110 --threads 8
